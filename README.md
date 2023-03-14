@@ -5,7 +5,10 @@ This application generates a random password. When the generate butoon is clicke
 
 ## visuals
 ![Screenshot 2023-03-13 201048](https://user-images.githubusercontent.com/123018143/224869811-8b40a035-af81-4192-b010-1269bb39fa32.png)
-)
+
+
+## Usage
+https://aidenmiller123.github.io/shiny-meme/
 
 
 ## License
